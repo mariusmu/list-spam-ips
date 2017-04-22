@@ -6,9 +6,9 @@ import re
 host = "" # Type the imap host
 username = "" # Type imap user name
 password = "" # Type imap password
-folder = "" # Type which folder to select messages from
+folder = "Spam" # Type which folder to select messages from
 verbose = False # Should the file output be verbose
-filename = '.txt' # Type the output file name
+filename = 'output.txt' # Type the output file name
 
 class FileWriter:
     """
