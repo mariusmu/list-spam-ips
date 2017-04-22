@@ -3,4 +3,4 @@ A simple script to login to your imap mail account, fetch all IP-addresses of a 
 
 # Running
 Before running please edit the mail.py script and insert your mail account details, and output file info
-```python mail.py```
+Then run ```python mail.py```
